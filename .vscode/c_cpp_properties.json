@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "algo_demo",
+            "includePath": [
+                "algo/include/**"
+            ]
+        }
+    ],
+    "version": 4
+}
